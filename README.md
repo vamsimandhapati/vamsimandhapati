@@ -20,7 +20,7 @@ Senior Full Stack Developer and Generative AI Engineer with **4+ years** of expe
 My differentiator: I bridge traditional enterprise development (Java/Spring Boot) with cutting-edge AI (OpenAI GPT-4, Anthropic Claude, AWS Bedrock) to build systems that deliver measurable business value.
 
 ```
-Location     : Tampa, Florida, USA
+Location     :  USA
 Current Role : Gen AI / Full Stack Developer @ SouthEast Bank
 Experience   : 4+ Years
 Specialties  : Java Microservices + LLM Integration + Cloud Architecture
