@@ -151,7 +151,7 @@ Open To      : Senior Full Stack | Generative AI Engineer | Backend Engineer
 
 **Open to:** Senior Full Stack Developer | Generative AI Engineer | Backend Engineer | Cloud Engineer roles
 
-*Targeting $130K-$180K | Banking, Healthcare, Insurance, Enterprise domains*
+*Targeting $80K-$100K | Banking, Healthcare, Insurance, Enterprise domains*
 
 </div>
 
