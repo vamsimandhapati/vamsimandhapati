@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;Generative+AI+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;AWS+%7C+Docker+%7C+Kubernetes;LangChain+%7C+OpenAI+%7C+AWS+Bedrock)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsimandhapati)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsimandhapati@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsimandhapati7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
@@ -147,7 +147,7 @@ Open To      : Senior Full Stack | Generative AI Engineer | Backend Engineer
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsimandhapati)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsimandhapati@gmail.com)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsimandhapati7@gmail.com)
 
 **Open to:** Senior Full Stack Developer | Generative AI Engineer | Backend Engineer | Cloud Engineer roles
 
