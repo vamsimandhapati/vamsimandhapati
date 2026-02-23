@@ -13,7 +13,7 @@
 
 ## About Me
 
-Full Stack Developer with **4+ years** building enterprise applications in **banking, healthcare, and insurance**. I specialize in Java/Spring Boot microservices, modern React/Angular frontends, and **Generative AI integrations** using LangChain, OpenAI, and AWS Bedrock. 
+Senior Full Stack Developer with **4+ years** building enterprise applications in **banking, healthcare, and insurance**. I specialize in Java/Spring Boot microservices, modern React/Angular frontends, and **Generative AI integrations** using LangChain, OpenAI, and AWS Bedrock. 
 
 ---
 
