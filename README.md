@@ -13,7 +13,7 @@
 
 ## About Me
 
-Senior Full Stack Developer with **8+ years** building enterprise applications in **banking, healthcare, and insurance**. I specialize in Java/Spring Boot microservices, modern React/Angular frontends, and **Generative AI integrations** using LangChain, OpenAI, and AWS Bedrock. Open to senior roles targeting $130K-$180K.
+Full Stack Developer with **4+ years** building enterprise applications in **banking, healthcare, and insurance**. I specialize in Java/Spring Boot microservices, modern React/Angular frontends, and **Generative AI integrations** using LangChain, OpenAI, and AWS Bedrock. 
 
 ---
 
